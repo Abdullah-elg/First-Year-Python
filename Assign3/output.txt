@@ -1,0 +1,11 @@
+Total number of universities => 100
+Available countries => JORDAN, PALESTINE, AUSTRALIA, CANADA, CHINA, DENMARK, FRANCE, GERMANY, ISRAEL, JAPAN, NETHERLANDS, NORWAY, SINGAPORE, SOUTH KOREA, SWEDEN, SWITZERLAND, TAIWAN, UNITED KINGDOM, USA, EGYPT
+Available continents => AFRICA, AUSTRALIA, NORTH AMERICA, EUROPE, ASIA
+At international rank => 1 the university name is => HARVARD UNIVERSITY
+At national rank => 1 the university name is => HARVARD UNIVERSITY
+The average score => 86.59%
+The relative score to the top university in NORTH AMERICA is => (86.59 / 100.0) x 100% = 86.59%
+The capital is => WASHINGTON
+The universities that contain the capital name =>
+   #1 UNIVERSITY OF WASHINGTON - SEATTLE
+   #2 WASHINGTON UNIVERSITY IN ST. LOUIS
